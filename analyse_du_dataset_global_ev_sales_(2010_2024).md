@@ -3,6 +3,7 @@
 
 ![NOUHAILA](https://github.com/user-attachments/assets/1a6f9a52-0683-446b-923b-b4a4b38d8c51)
 
+EN-NAIDI NOUHAILA 22006162
 
 ## Rapport Complet d'Analyse Exploratoire des Données
 
