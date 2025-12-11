@@ -1,5 +1,9 @@
 # 📊 Analyse du Dataset : Global EV Sales (2010-2024)
 
+
+![Uploading NOUHAILA.jpg…]()
+
+
 ## Rapport Complet d'Analyse Exploratoire des Données
 
 ---
