@@ -1,7 +1,7 @@
 # 📊 Analyse du Dataset : Global EV Sales (2010-2024)
 
 
-![Ma photo](https://i.imgur.com/xxxxx.jpg)
+![NOUHAILA](https://github.com/user-attachments/assets/1a6f9a52-0683-446b-923b-b4a4b38d8c51)
 
 
 ## Rapport Complet d'Analyse Exploratoire des Données
